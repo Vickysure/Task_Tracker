@@ -229,7 +229,7 @@ For a personal learning project, you can also track bugs and ideas using GitHub 
 No license is currently specified. If you plan to publish or share this project, choose and add an appropriate open-source license before others reuse or redistribute it.
 
 
-## Autor
+## Author
 
 ***Victor Ukachi Chiemela***
 - Email : [ukadovicky07@gmail.com]
