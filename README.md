@@ -127,6 +127,10 @@ When the program starts, it displays a menu similar to this:
 9. Exit.
 ```
 
+<p align="center">
+<img src="./screenshots/pic 2.png" width="900">
+</p>
+
 Enter the number for the operation you want to perform, then follow the prompts.
 
 | Menu option | Action |
@@ -153,6 +157,10 @@ Enter the number for the operation you want to perform, then follow the prompts.
 
 ## Task Statuses
 
+<p align="center">
+<img src="./screenshots/pic 4.png" width="900">
+</p>
+
 Task Tracker uses these status values:
 
 | Status | Meaning |
@@ -176,6 +184,10 @@ Task records are stored in `tasks.json` as a JSON array. A task has the followin
     }
 ]
 ```
+
+<p align="center">
+<img src="./screenshots/pic 3.png" width="900">
+</p>
 
 Each task contains:
 
