@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "description": "Attend to School Activities",
+        "status": "Not Done"
+    },
+    {
+        "id": 2,
+        "description": "Learn Python JSON",
+        "status": "In Progress"
+    },
+    {
+        "id": 3,
+        "description": "Attend to Coursera Courses",
+        "status": "Not Done"
+    },
+    {
+        "id": 4,
+        "description": "Edit and Post Church Videos",
+        "status": "Done"
+    },
+    {
+        "id": 5,
+        "description": "Attend to Python Study Group.",
+        "status": "Not Done"
+    }
+]
