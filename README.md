@@ -2,6 +2,10 @@
 
 A simple, menu-driven task management application built with Python. Task Tracker helps users organize everyday activities from the command line by creating tasks, editing descriptions, deleting tasks, tracking progress, and filtering tasks by status.
 
+<p align="center">
+<img src="./screenshots/pic 1.png" width="900">
+</p>
+
 ## Table of Contents
 
 - [Overview](#overview)
